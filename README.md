@@ -1,9 +1,8 @@
-
  - https://github.com/iyxei
  - https://heavenn.ct.ws
  - https://ransxm.org
 
-### Modules Used
+### Modules 
 ```bash
 pystyle
 ```
